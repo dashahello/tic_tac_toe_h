@@ -1,6 +1,6 @@
-# Following the tutorial on [scrimba.com/learn/reactgame] (https://scrimba.com/learn/reactgame) by Thomas Weibenfalk
+# Following the tutorial on [scrimba.com](https://scrimba.com/learn/reactgame) by Thomas Weibenfalk
 
-This tutorial is also available on YouTube [youtube.com/watch?v=Z5RbPrK4VqM&t=175s] (https://www.youtube.com/watch?v=Z5RbPrK4VqM&t=175s)
+This tutorial is also available on YouTube [youtube.com](https://www.youtube.com/watch?v=Z5RbPrK4VqM&t=175s)
 
 # Getting Started with Create React App
 
