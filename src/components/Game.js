@@ -17,7 +17,7 @@ const Game = () => {
     const timeInHistory = history.slice(0, stepNumber + 1);
     const current = timeInHistory[stepNumber];
     const squares = [...current];
-    // If user click an occupied square or if game is won, return
+
     if (winner || squares[i]) return;
 
     squares[i] = xIsNext ? 'X' : 'O';
